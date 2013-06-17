@@ -1,4 +1,3 @@
-[![Build Status](https://secure.travis-ci.org/tjfontaine/node-dns.png)](http://travis-ci.org/tjfontaine/node-dns)
 
 native-dns -- A replacement DNS stack for node.js
 =================================================
